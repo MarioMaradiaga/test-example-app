@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Navbar 1`] = `
+<nav
+  className="navbar"
+>
+  Link
+</nav>
+`;
+
+exports[`should render admin link for admins 1`] = `
+<nav
+  className="navbar"
+>
+  Link
+  Link
+</nav>
+`;
